@@ -1,0 +1,62 @@
+[
+ {
+  "id": "bg1",
+  "image": "koya_bg/bg1.webp",
+  "sort_order": 1
+ },
+ {
+  "id": "bg2",
+  "image": "koya_bg/bg2.webp",
+  "sort_order": 2
+ },
+ {
+  "id": "bg3",
+  "image": "koya_bg/bg3.webp",
+  "sort_order": 3
+ },
+ {
+  "id": "bg4",
+  "image": "koya_bg/bg4.webp",
+  "sort_order": 4
+ },
+ {
+  "id": "bg6",
+  "image": "koya_bg/bg6.webp",
+  "sort_order": 5
+ },
+ {
+  "id": "bg7",
+  "image": "koya_bg/bg7.webp",
+  "sort_order": 6
+ },
+ {
+  "id": "bg8",
+  "image": "koya_bg/bg8.webp",
+  "sort_order": 7
+ },
+ {
+  "id": "bg9",
+  "image": "koya_bg/bg9.webp",
+  "sort_order": 8
+ },
+ {
+  "id": "bg10",
+  "image": "koya_bg/bg10.webp",
+  "sort_order": 9
+ },
+ {
+  "id": "bg11",
+  "image": "koya_bg/bg11.webp",
+  "sort_order": 10
+ },
+ {
+  "id": "bg12",
+  "image": "koya_bg/bg12.webp",
+  "sort_order": 11
+ },
+ {
+  "id": "70e9c2bf-4c62-4b3d-bedf-4b0f5f13ce80",
+  "image": "/uploads/fcc9cf28-4dbc-4c2d-af38-f5cb461e5b4e.webp",
+  "sort_order": 12
+ }
+]

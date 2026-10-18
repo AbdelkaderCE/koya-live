@@ -1,0 +1,149 @@
+[
+ {
+  "key": "starters",
+  "label": "Starters",
+  "icon": "fa-plate-wheat",
+  "ornament": true,
+  "sort_order": 1
+ },
+ {
+  "key": "salads",
+  "label": "Salad & Bowls",
+  "icon": "fa-leaf",
+  "ornament": false,
+  "sort_order": 2
+ },
+ {
+  "key": "fish",
+  "label": "Fish & Seafood",
+  "icon": "fa-fish",
+  "ornament": true,
+  "sort_order": 3
+ },
+ {
+  "key": "meat",
+  "label": "Meat",
+  "icon": "fa-drumstick-bite",
+  "ornament": true,
+  "sort_order": 4
+ },
+ {
+  "key": "pizza",
+  "label": "Pizza",
+  "icon": "fa-pizza-slice",
+  "ornament": true,
+  "sort_order": 5
+ },
+ {
+  "key": "pasta",
+  "label": "Pasta",
+  "icon": "fa-wheat-awn",
+  "ornament": false,
+  "sort_order": 6
+ },
+ {
+  "key": "calzone",
+  "label": "Calzone",
+  "icon": "fa-bread-slice",
+  "ornament": false,
+  "sort_order": 7
+ },
+ {
+  "key": "sharing",
+  "label": "Sharing Mix",
+  "icon": "fa-people-group",
+  "ornament": true,
+  "sort_order": 8
+ },
+ {
+  "key": "sides",
+  "label": "Sides",
+  "icon": "fa-bowl-food",
+  "ornament": false,
+  "sort_order": 9
+ },
+ {
+  "key": "sauces",
+  "label": "Sauces",
+  "icon": "fa-mortar-pestle",
+  "ornament": false,
+  "sort_order": 10
+ },
+ {
+  "key": "desserts",
+  "label": "Desserts",
+  "icon": "fa-ice-cream",
+  "ornament": true,
+  "sort_order": 11
+ },
+ {
+  "key": "softdrinks",
+  "label": "Soft Drinks",
+  "icon": "fa-bottle-water",
+  "ornament": false,
+  "sort_order": 12
+ },
+ {
+  "key": "freshjuices",
+  "label": "Fresh Juices",
+  "icon": "fa-lemon",
+  "ornament": false,
+  "sort_order": 13
+ },
+ {
+  "key": "localjuices",
+  "label": "Local Juices",
+  "icon": "fa-seedling",
+  "ornament": false,
+  "sort_order": 14
+ },
+ {
+  "key": "coffee",
+  "label": "Coffee",
+  "icon": "fa-mug-hot",
+  "ornament": false,
+  "sort_order": 15
+ },
+ {
+  "key": "milkshakes",
+  "label": "Milkshakes",
+  "icon": "fa-blender",
+  "ornament": false,
+  "sort_order": 16
+ },
+ {
+  "key": "smoothieslemonades",
+  "label": "Smoothies & Lemonades",
+  "icon": "fa-bottle-water",
+  "ornament": false,
+  "sort_order": 17
+ },
+ {
+  "key": "hottea",
+  "label": "Hot drinks",
+  "icon": "fa-mug-saucer",
+  "ornament": false,
+  "sort_order": 18
+ },
+ {
+  "key": "matchas",
+  "label": "Matchas",
+  "icon": "fa-bowl-rice",
+  "ornament": false,
+  "sort_order": 19
+ },
+ {
+  "key": "mocktails",
+  "label": "Mocktails",
+  "icon": "fa-martini-glass-citrus",
+  "ornament": true,
+  "sort_order": 20
+ },
+ {
+  "key": "icedtea",
+  "label": "Iced Tea",
+  "icon": "fa-glass-water",
+  "ornament": false,
+  "sort_order": 21
+ }
+]
